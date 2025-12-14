@@ -31,8 +31,8 @@ export default function CreateCampaign() {
       abi: factoryABI,
       functionName: "createCampaign",
       args: [
-        parseEther(goal),                 // ✅ correct
-        BigInt(Number(duration) * 86400), // days → seconds
+        parseEther(goal),                 
+        BigInt(Number(duration) * 86400), 
       ],
     });
   };
