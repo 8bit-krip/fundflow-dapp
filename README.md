@@ -164,4 +164,5 @@ Future improvements include:
 - Smart contract audits
 
 ---
-![Alt Text Description](/Users/kishan/Desktop/fund.jpeg)
+![Alt Text Description](./fund.jpeg)
+
